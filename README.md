@@ -1,4 +1,4 @@
-# jio
+# shop
 
 ## Project setup
 ```
